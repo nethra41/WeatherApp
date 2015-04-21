@@ -1,0 +1,26 @@
+body {
+	padding-top: 70px;		
+}
+
+.degree-unit {
+	padding-top: 15px;
+}
+
+.degree-header {
+	padding-top: 25px;
+	text-align: right;
+}
+
+.current-degree-header {
+	padding-top: 30px;
+	text-align: right;
+}
+
+.degree-value {
+	text-align: right;
+}
+
+.weather-status-desc {
+	text-align: center;
+	font-size: x-large;
+}
